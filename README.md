@@ -1,2 +1,2 @@
 # whatsapp
-A intelligent Bot using ChatGPT
+Intelligent Bot using ChatGPT
